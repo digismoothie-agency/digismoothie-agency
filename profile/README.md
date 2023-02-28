@@ -9,9 +9,3 @@ Your Dream Job is [Here](https://www.digismoothie.com/company/careers#jobs).
 ## Want us to work for you?
 
 We'd ❤️ to hear from you. [Get in touch](https://www.digismoothie.com/company/contact) with us and let's start [making awesome](https://www.digismoothie.com/#services) together!
-
-## Are you a Smooth Developer?
-
-Get started (or freshen up) on our [guidelines and best practices]().
-
-Proud of some code you wrote? Share it in our [commons repository]()!
