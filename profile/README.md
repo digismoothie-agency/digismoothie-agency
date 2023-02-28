@@ -1,4 +1,4 @@
-![Digismoothie Agency](../assets/Trademark_Agency_Primary%402x.png)
+![Digismoothie Agency](../assets/Trademark_Agency_Primary@2x.png)
 
 # Digismoothie Agency
 
