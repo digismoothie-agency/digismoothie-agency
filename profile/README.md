@@ -8,6 +8,6 @@ Your Dream Job is [Here](https://www.digismoothie.com/company/careers#jobs).
 
 ## Are you a Smooth Developer?
 
-Get started (or freshen up) on our [guidelines and best practices].
+Get started (or freshen up) on our [guidelines and best practices]().
 
-Proud of some code you wrote? Share it in our [commons repository]!
+Proud of some code you wrote? Share it in our [commons repository]()!
