@@ -1,4 +1,4 @@
-![Digismoothie Agency](assets/Trademark_Agency_Primary@2x.png)
+![Digismoothie Agency](./assets/Trademark_Agency_Primary@2x.png)
 
 We are Digismoothie Agency, the Shopify Powerhouse 💪. We build slick e-commerce stores and apps that look great 💅 and perform even better ⚡.
 
